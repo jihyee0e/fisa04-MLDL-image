@@ -1,4 +1,1 @@
-keras
-numpy
-streamlit
-tensorflow==2.12.0
+asttokens==3.0.0

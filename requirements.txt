@@ -1,1 +1,5 @@
 asttokens==3.0.0
+keras
+numpy
+streamlit
+tensorflow==2.12
